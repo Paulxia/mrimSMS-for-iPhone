@@ -1,0 +1,64 @@
+/* 
+   Localizable.strings
+   mrimSMSm
+
+   Created by Алексеев Влад on 30.07.09.
+   Copyright 2009 __MyCompanyName__. All rights reserved.
+ */
+"mWrongEmailOrPassword" = "Email или пароль введены неверно";
+"mSMSLog" = "Журнал";
+"mCurrentMessageLength" = "%d";
+"mConnectButton" = "Соединиться";
+"mNewMessage" = "Новое SMS";
+"mJailbreakTitle" = "Джейлбрейкнутый телефон";
+"mJailbreakMessage" = "Упс! Кажется, что вы используете пижженую версию программы. Возможность отправки SMS будет отключена.";
+"mUnknownContact" = "Неизвестный адресат";
+
+"mErrorOccured" = "Возникла ошибка";
+"mReconnect" = "ОК";
+"mErrorConnectionLost" = "Соединение с сервером потеряно. Дождись устойчивого соединения с Интернетом и нажмите Подключиться.";
+
+"mByName" = "По контактам";
+"mAllList" = "Списком";
+
+// AccountViewController
+"mLoginUsingYourAccount" = "Войдите, используя свою учетную запись Mail.ru";
+"mEmail" = "Email:";
+"mPassword" = "Пароль:";
+"mLogin" = "Войти";
+"mLoggingIn" = "Вхожу...";
+"mForceLogout" = "Был выполнен параллельный вход";
+"mLoginErrorTitle" = "Ошибка входа";
+"mLoginErrorMessage" = "Email или пароль введены неверно!";
+
+// HistoryViewController
+"mSearchAll" = "Все";
+"mSearchSent" = "Исходящие";
+"mSearchReceived" = "Входящие";
+"mSearchBarPlaceholder" = "Поиск по журналу";
+"mNoInternetTitle" = "Требуется подключение к Интернету";
+"mNoInternetMessage" = "Для отправки SMS необходим Интернет. Программа выполняет попытки подключиться в фоновом режиме.";
+"nNewMessageButton" = "Новое";
+"mImportAlertTitle" = "Старый журнал сообщений";
+"mImportAlertMessage" = "Вы хотите импортировать старый журнал из предыдущей версии mrimSMS?"; 
+"mImportButtonYes" = "Да";
+"mImportButtonNo" = "Нет, удалить его";
+"mImportButtonLater" = "Напомнить позже";
+"mIncomeMessageClose" = "Закрыть";
+"mStoreButton" = "Настройки";
+
+// NewMessageController
+"mWait1Minute" = "Ждите %d с.";
+"mSelectContact" = "Нажмите для выбора контакта";
+"mSendButton" = "Отправить";
+"mMinuteTimer" = "Отправлять сообщения можно не чаще, чем один раз в минуту.";
+
+// MRIMStoreViewController
+"mRestorePurchasedItems" = "Проверить покупки";
+"mRestoringItems" = "Идет проверка";
+"mCloseStore" = "Закрыть";
+"mPushServerError" = "Невозможно присоединиться к серверу Push. Проверьте, пожалуйста, соединение с Интернетом и текущие дату и время.";
+"mPushNumberBusy" = "Номер уже зарегистрирован!";
+
+// MRIMRecentNumbersViewController
+"mRecentNumbersTitle" = "Частые номера";

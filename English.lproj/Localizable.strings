@@ -1,0 +1,64 @@
+/* 
+   Localizable.strings
+   mrimSMSm
+
+   Created by Алексеев Влад on 30.07.09.
+   Copyright 2009 __MyCompanyName__. All rights reserved.
+ */
+"mWrongEmailOrPassword" = "Email or password is wrong";
+"mSMSLog" = "SMS Log";
+"mCurrentMessageLength" = "%d";
+"mConnectButton" = "Connect";
+"mNewMessage" = "New SMS";
+"mJailbreakTitle" = "Jailbroken phone!";
+"mJailbreakMessage" = "Oops, it seems that you using stolen app! SMS sending features will be disabled.";
+"mUnknownContact" = "Unknown contact";
+
+"mErrorOccured" = "Error";
+"mReconnect" = "OK";
+"mErrorConnectionLost" = "Connection to server lost. To reconnect tap Connect.";
+
+// AccountViewController
+"mLoginUsingYourAccount" = "Login using your existing Mail.ru account";
+"mEmail" = "Email:";
+"mPassword" = "Password:";
+"mLogin" = "Login";
+"mLoggingIn" = "Logging in...";
+"mForceLogout" = "Parallel login occured";
+"mLoginErrorTitle" = "Login error";
+"mLoginErrorMessage" = "Wrong Email or password!";
+
+// HistoryViewController
+"mSearchAll" = "All";
+"mSearchSent" = "Outgoing";
+"mSearchReceived" = "Incoming";
+"mSearchBarPlaceholder" = "Search history";
+"mNoInternetTitle" = "Internet connectivity is required";
+"mNoInternetMessage" = "Please, connect to the Internet to be able to send SMS.";
+"nNewMessageButton" = "New";
+"mImportAlertTitle" = "Old SMS log";
+"mImportAlertMessage" = "Do you want to import your old log from previous version of mrimSMS?"; 
+"mImportButtonYes" = "Yes";
+"mImportButtonNo" = "No, delete it";
+"mImportButtonLater" = "Ask me later";
+"mIncomeMessageClose" = "Close";
+"mStoreButton" = "Settings";
+
+"mByName" = "By Name";
+"mAllList" = "By List";
+
+// NewMessageController
+"mWait1Minute" = "Wait %d sec.";
+"mSelectContact" = "Tap to select contact";
+"mSendButton" = "Send";
+"mMinuteTimer" = "You can send only one message per minute.";
+
+// MRIMStoreViewController
+"mRestorePurchasedItems" = "Check for purchases";
+"mRestoringItems" = "Checking for purchases...";
+"mCloseStore" = "Close";
+"mPushServerError" = "Unable to connect to push server. Please, check your Internet connection and device date and time.";
+"mPushNumberBusy" = "Phone number already registered!";
+
+// MRIMRecentNumbersViewController
+"mRecentNumbersTitle" = "Often numbers";

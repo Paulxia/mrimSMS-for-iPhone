@@ -1,0 +1,64 @@
+/* 
+   Localizable.strings
+   mrimSMSm
+
+   Created by Алексеев Влад on 30.07.09.
+   Copyright 2009 __MyCompanyName__. All rights reserved.
+ */
+"mWrongEmailOrPassword" = "E-mail nebo heslo je špatně";
+"mSMSLog" = "Časopis";
+"mCurrentMessageLength" = "%d";
+"mConnectButton" = "Připojit";
+"mNewMessage" = "Nová SMS";
+"mJailbreakTitle" = "Ukradené app!";
+"mJailbreakMessage" = "Jejda, zdá se, že používáte ukradené app! Odesílání SMS funkce budou zakázány.";
+"mUnknownContact" = "Neznakomy Kontakt";
+
+"mErrorOccured" = "Chyba";
+"mReconnect" = "OK";
+"mErrorConnectionLost" = "Připojení k serveru ztracené. Počkejte, stabilní připojení k internetu a klepněte na Připojit.";
+
+"mByName" = "Pro kontakty";
+"mAllList" = "Seznam";
+
+// AccountViewController
+"mLoginUsingYourAccount" = "Přihlášení pomocí stávajícího účtu Mail.ru";
+"mEmail" = "Email:";
+"mPassword" = "Heslo:";
+"mLogin" = "Přihlásit";
+"mLoggingIn" = "Přihlášení...";
+"mForceLogout" = "Byla provedena paralelní vstup";
+"mLoginErrorTitle" = "Chyba přihlášení";
+"mLoginErrorMessage" = "E-mail nebo heslo je chybné!";
+
+// HistoryViewController
+"mSearchAll" = "Vše";
+"mSearchSent" = "Odchozí";
+"mSearchReceived" = "Příchozí";
+"mSearchBarPlaceholder" = "Vyhledávání časopis";
+"mNoInternetTitle" = "Připojení k Internetu je vyžadováno";
+"mNoInternetMessage" = "Prosím, připojení k internetu, aby mohli posílat SMS.";
+"nNewMessageButton" = "Nový";
+"mImportAlertTitle" = "Staré věstník Příspěvky";
+"mImportAlertMessage" = "Chcete importovat staré časopis z předchozí verze mrimSMS?"; 
+"mImportButtonYes" = "Ano";
+"mImportButtonNo" = "Ne, odstraňte ji";
+"mImportButtonLater" = "Připomeň mi později";
+"mIncomeMessageClose" = "Zavřít";
+"mStoreButton" = "Nastavení";
+
+// NewMessageController
+"mWait1Minute" = "Počkejte %d sek.";
+"mSelectContact" = "Poklepáním vyberte kontakt";
+"mSendButton" = "Poslat";
+"mMinuteTimer" = "Možné zaslat nejvýše jednou za minutu.";
+
+// MRIMStoreViewController
+"mRestorePurchasedItems" = "Zkontrolovat košík";
+"mRestoringItems" = "Čekat";
+"mCloseStore" = "Zavřít";
+"mPushServerError" = "Nelze se připojit server Push. Prosím, zkontrolovat připojit se k internetu a aktuální datum a čas.";
+"mPushNumberBusy" = "Tel je již zaregistrované!";
+
+// MRIMRecentNumbersViewController
+"mRecentNumbersTitle" = "Časté čísla";
